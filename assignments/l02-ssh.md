@@ -8,7 +8,7 @@ Note: `directory` and `folder` are interchangeable in the following tasks.
    **Note: Replace `YOUR_NAME` with your actual BU username**
 
 ```bash
-ssh-copy-id -i ~/.ssh/id_rsa.pub YOUR_NAME@134.138.171.158
+ssh-copy-id -i ~/.ssh/id_rsa.pub YOUR_NAME@34.138.171.158
 # password: YOUR_PASSWORD
 ```
 
