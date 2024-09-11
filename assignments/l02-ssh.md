@@ -32,6 +32,6 @@ curl -o /home/YOURNAME/commandline-practice/joke.sh https://raw.githubuserconten
 
 7. Run the script and append the joke to the file you created in Step 3. You can copy/paste _or_ use `>>` to redirect the output of the script to the file.
 
-8. Complete [this](https://forms.gle/tBhrAexnao7NeNaQ7) form.
+8. Complete [this](https://forms.gle/hNTTpmmsGC9yA22z5) form.
 
 **HAVE FUN and ASK QUESTIONS!!**
