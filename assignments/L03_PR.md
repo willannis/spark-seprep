@@ -31,7 +31,7 @@ This assignment aims to enhance your version control skills by guiding you throu
 
 **4. Create your File**
 
-   - Create a markdown file in the `student-introduction/` folder with the following nomenclature: `yourname.md`. Take a look at the [example here.](https://github.com/DS219/spark-seprep/blob/main/student-introduction/aakanksha.md) 
+   - Create a markdown file in the `student-introduction/` folder with the following nomenclature: `yourname.md`. Take a look at the [example here.](https://github.com/DS219/spark-seprep/blob/main/student-introduction/urvashimohnani.md) 
    - Add a header using `#` and add your name.
    - Then in normal text add your introduction with your favorite programming language and why. 
 
