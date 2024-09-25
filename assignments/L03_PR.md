@@ -20,7 +20,7 @@ This assignment aims to enhance your version control skills by guiding you throu
 
    ```bash
    mkdir -p ~/github
-   cd ~/github/spark-seprep
+   cd ~/github
    git clone git@github.com:yourgh-name/spark-seprep.git  # if your SSH key is set correctly in GH
    cd spark-seprep
    git remote show -v
