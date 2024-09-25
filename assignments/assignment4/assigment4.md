@@ -16,6 +16,11 @@ Create a new branch for this assignment.
 git checkout -b assignment4
 ```
 
+Check that you are in the correct branch. The assignment4 branch should be in green and have an asteriks next to it.
+```
+git branch
+```
+
 **Assignment**
 
 1. **Pick any easy category question from [LeetCode](https://leetcode.com/):**
