@@ -1,5 +1,23 @@
 ### Assignment 4:
 
+**Setup**
+
+Before getting started, fetch new changes from the upstream repo and rebase your main branch.
+
+```
+git checkout main
+git fetch upstream
+git rebase upstream/main
+```
+
+Create a new branch for this assignment.
+
+```
+git checkout -b assignment4
+```
+
+**Assignment**
+
 1. **Pick any easy category question from [LeetCode](https://leetcode.com/):**
     
    **Example**
@@ -36,12 +54,12 @@
 2. **Create a directory in GitHub:**
 
    - Navigate to: `https://github.com/DS219/spark-seprep/tree/main/assignments/assignment4/<your_name>`
-   - Replace `<your_name>` with your actual name.
+   - Replace `<your_name>` with your actual name in the format `firstname-lastname`.
    - Create this directory in the repo if it doesn’t exist yet.
 
 3. **Add the Python file to your directory:**
    
-   - Save your Python script as `two_sum.py`.
+   - Save your Python script with a descriptive name, an example for the question above is `two_sum.py`.
    - Add this file to the directory you just created.
 
 4. **Write a detailed commit message:**
@@ -55,3 +73,5 @@
    - Used a dictionary to store previously encountered numbers and their indices for O(n) time complexity.
    - Tested the solution with a sample input [2, 7, 11, 15] and target = 9, returning correct indices [0, 1].
    ```
+
+**Note: For your assignment, do not use the example already used here to help describe the assignment. Pick any other leetcode question from the easy category.**
