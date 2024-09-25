@@ -40,7 +40,7 @@ This assignment aims to enhance your version control skills by guiding you throu
    touch yourname.md
    # Open the document, add content, and save.
 
-   git add .
+   git add yourname.md
    git commit -m "[your name]: Assignment 3"
    git push origin assignment-3-branch
    ```
