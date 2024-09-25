@@ -22,11 +22,9 @@ This assignment aims to enhance your version control skills by guiding you throu
    mkdir -p ~/github
    cd ~/github/spark-seprep
    git clone git@github.com:yourgh-name/spark-seprep.git  # if your SSH key is set correctly in GH
-   git clone https://github.com/yourgh-name/spark-seprep.git # if your SSH key is not set correctly in GH
    cd spark-seprep
    git remote show -v
    git remote add upstream git@github.com:DS219/spark-seprep.git  # if your SSH key is set correctly in GH
-   git remote add upstream  https://github.com/DS219/spark-seprep.git # if your SSH key is not set correctly in GH
    ```
 
 **4. Create your File**
