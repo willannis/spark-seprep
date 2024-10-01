@@ -58,9 +58,9 @@ git branch
 
 2. **Create a directory in GitHub:**
 
-   - Navigate to: `https://github.com/DS219/spark-seprep/tree/main/assignments/assignment4/<your_name>`
-   - Replace `<your_name>` with your actual name in the format `firstname-lastname`.
-   - Create this directory in the repo if it doesn’t exist yet.
+   - Navigate to: `spark-seprep/assignments/assignment4`
+   - Create a new directory here with your name using `mkdir <firstname-lastname>`
+   - Enter this directory for the assignment `cd <firstname-lastname>`
 
 3. **Add the Python file to your directory:**
    
