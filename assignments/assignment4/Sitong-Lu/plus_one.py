@@ -8,9 +8,15 @@ Original file is located at
 """
 
 class Solution(object):
-    def searchInsert(self, nums, target):
-        for i in range(len(nums)):
-            if target <= nums[i]:
-                return i
-
-        return len(nums)
+    def plusOne(self, digits):
+        n = len(digits)
+        
+        # Start from the last digit and move backwards
+        for i in range(n - 1, -1, -1):
+            if digits[i] < 9:
+                digits[i] += 1
+                return digits
+            digits[i] = 0
+        
+        # If all digits are 9, we need to add an extra digit at the beginning
+        return [1] + digits
