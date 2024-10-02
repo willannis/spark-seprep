@@ -48,7 +48,7 @@ CMD ./joke.sh
 ```
 Head to https://docs.docker.com/get-started/02_our_app/ for a quick tutorial on Containerfiles/Dockerfiles. Google is your friend, use it!
 
-Look at https://github.com/DS219/spark-seprep/tree/main/assignments/containerfiles/urvashi-mohnani as an example!
+Look at https://github.com/DS219/spark-seprep/tree/main/assignments/assignment5/urvashi-mohnani as an example!
 
 ## Build and tag your container image
 
