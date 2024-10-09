@@ -1,0 +1,6 @@
+FROM  python:3.9-slim
+WORKDIR mydir
+COPY remove_element.py .
+RUN chmod +x remove_element.py
+CMD ["python", "remove_element.py"]
+
