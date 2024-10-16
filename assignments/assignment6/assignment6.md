@@ -109,6 +109,7 @@ df = pd.read_csv(url)
     git checkout -b assignment6 upstream/main
     ```
 
-3. Create a folder here: [https://github.com/DS219/spark-seprep/tree/main/assignments/assignment6/](https://github.com/DS219/spark-seprep/tree/main/assignments/assignment6/) with your name. Add your dataset and Jupyter notebook to this folder.
+3. Head to the directory **assignments/assignment6** and create a directory there with your name in the format **FIRST-LAST**.
+The directory should be **assignments/assignment6/[FIRSTNAME-LASTNAME]** so you can add your dataset and Jupyter notebook to this folder.
 
 4. After adding your changes, push the branch and make a pull request to the upstream repository.
