@@ -3,7 +3,7 @@ def name_meaning(name):
         return None
     if 1 <= len(name) <= 5:
         return "Strong"
-    if 6 <= len(name) <= 7:  
+    if 6 <= len(name) <= 7:
         return "Sophisticated"
     if len(name) > 7:
         return "Elegant"
@@ -16,4 +16,5 @@ if meaning:
     print(f"The meaning of your name is: {meaning}")
 else:
     print("You did not enter a valid name.")
+
 
